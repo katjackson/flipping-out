@@ -1,0 +1,6 @@
+.DS_Store
+.envrc
+.envrc
+.direnv
+__pychache__
+*.pyc

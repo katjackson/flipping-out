@@ -1,0 +1,6 @@
+ipython[all]
+math
+random
+statistics as st
+numpy as np
+matplotlib.pyplot as plt
